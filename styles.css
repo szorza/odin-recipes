@@ -1,0 +1,25 @@
+* {
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: dimgray;    
+}
+
+h1 {
+    text-align: center;
+    padding-left: 1em;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    font-weight: bold;
+}
+
+a:link {
+    color:darkgoldenrod
+}
+
+a:visited {
+    color:saddlebrown
+}
